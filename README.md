@@ -1,2 +1,2 @@
-# prework
+# prework-study-guide
 prework files
