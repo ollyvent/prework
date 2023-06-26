@@ -2,7 +2,7 @@
 
 ## Description
 
-the foolowing is a professional prework study guide written to help boot camp students by giving them direction into waht the bootcamp would look like.
+the following is a professional prework study guide written to help bootcamp students by giving them direction into what the bootcamp would look like.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-this guide lists the topics learnt during the bootcamp and aslo gives direction on whcih to study first by using the chrome devtools.
+this guide lists the topics learnt during the bootcamp and also gives direction on whcih to study first by using the Chrome DevTools.
 
 ## Credits
 
